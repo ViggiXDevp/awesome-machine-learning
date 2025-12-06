@@ -1,0 +1,245 @@
+[33mcommit 8977e675361f9564fecf15042cb1426726cf76d2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mvighnesh[m[33m)[m
+Author: G V VIGHNESH REDDY <gvvighneshreddy8612@gmail.com>
+Date:   Sat Dec 6 18:36:58 2025 +0530
+
+    books.md is updated, vighnesh left a message
+
+[33mcommit 8bed1e7f5fa616bf3cf5eb6cc753e3a407a62c84[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: dd30c70 769293b
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Tue Oct 28 13:49:09 2025 -0400
+
+    Merge pull request #1062 from sparow-svg/patch-1
+    
+    Update README.md
+
+[33mcommit dd30c70cd56c43d509af00cf5beba181f5a6f07e[m
+Merge: baf603b a66f61f
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Mon Oct 6 09:44:20 2025 -0400
+
+    Merge pull request #1070 from mrchen1225/add-ray3-run
+    
+    Add ray3.run to Python > General-Purpose Machine Learning section
+
+[33mcommit baf603b9f59bf6f8a93235ed393e808ed73af864[m
+Merge: bdc40f7 f13dac8
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Mon Oct 6 09:44:08 2025 -0400
+
+    Merge pull request #1068 from momonga-ml/add-gower-express
+    
+    Add Gower Express - Fastest GPU-accelerated Gower Distance Implementation
+
+[33mcommit bdc40f752fe5edaecdf4add9ae0caad0bdb0dfb9[m
+Merge: 6d71d04 0a23de7
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Mon Oct 6 09:43:54 2025 -0400
+
+    Merge pull request #1067 from code-forge-temple/patch-1
+    
+    Update README.md
+
+[33mcommit 0a23de7e16c1454fdd3c0db6c22eddd71c466621[m
+Merge: ccdd6c7 6d71d04
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Mon Oct 6 09:43:38 2025 -0400
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 6d71d04823d6f7fdc2821627a8d6d3caf8cdf271[m
+Merge: 0f46f87 86dc3b7
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Mon Oct 6 09:43:07 2025 -0400
+
+    Merge pull request #1066 from JehoshuaM/master
+    
+    Add Awesome Hugging Face Models
+
+[33mcommit 0f46f87a31454ba6d4d2e5f1f550fbcdac48f28d[m
+Merge: f4de9c5 cc5cd22
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Mon Oct 6 09:41:49 2025 -0400
+
+    Merge pull request #1064 from stjepanjurekovic/patch-20
+    
+    Added AI Model Evaluation
+
+[33mcommit f4de9c519cba65c62917a248aee3d47bce845673[m
+Merge: a475cf5 9fa437c
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Mon Oct 6 09:41:33 2025 -0400
+
+    Merge pull request #1063 from doobidoo/add-mcp-memory-service
+    
+    Add MCP Memory Service to Python General-Purpose Machine Learning
+
+[33mcommit a66f61f2f92f818a5eaabd949d1edffd4067a30b[m
+Author: mrchen1225 <guanwei1225@gmail.com>
+Date:   Fri Sep 26 11:05:04 2025 +0800
+
+    Add ray3.run to Python > General-Purpose Machine Learning section
+
+[33mcommit f13dac84f2c97ef301d0a768b4617cbfa2791400[m
+Author: Charles F <charles.frenzel@justvanilla.com>
+Date:   Fri Sep 5 10:07:45 2025 -0400
+
+    Add Gower Express to Python ML libraries
+    
+    🤖 Generated with [Claude Code](https://claude.ai/code)
+    
+    Co-Authored-By: Claude <noreply@anthropic.com>
+
+[33mcommit ccdd6c7e066531583205de162f995d12d18eb584[m
+Author: Code Forge Temple <code.forge.temple@gmail.com>
+Date:   Sun Aug 24 14:07:26 2025 +0300
+
+    Add ScribePal, Local LLM NPC
+
+[33mcommit f8dcf4fc78d9ca3dbb3e3b8a20b37106aa4947cb[m
+Author: Code Forge Temple <code.forge.temple@gmail.com>
+Date:   Sun Aug 24 13:38:50 2025 +0300
+
+    Update README.md
+
+[33mcommit 86dc3b77863af1f99132eb656defa63552112a15[m
+Author: Jehoshua <104209327+JehoshuaM@users.noreply.github.com>
+Date:   Sat Aug 23 16:37:59 2025 +0530
+
+    Update README.md
+
+[33mcommit cc5cd2257e4c0ef8748a14b1c35f875ecdd18c3b[m
+Author: Stjepan Jureković <stju@manning.com>
+Date:   Wed Aug 20 14:24:59 2025 +0200
+
+    Added AI Model Evaluation
+    
+    Hi,
+    
+    Stjepan from Manning here. I've added our latest MEAP release to the list. Thank you for considering it.
+    
+    Best,
+
+[33mcommit 9fa437c34fb37b9fc8b005432cc898f11e58620b[m
+Author: Henry <henry.krupp@gmail.com>
+Date:   Fri Aug 15 18:46:16 2025 +0200
+
+    Add MCP Memory Service to Python General-Purpose Machine Learning
+    
+    MCP Memory Service is a universal memory service that provides:
+    - Semantic search using sentence transformers and vector embeddings
+    - Autonomous memory consolidation with ML-inspired algorithms
+    - Multi-client support for 13+ AI applications (Claude Desktop, VS Code, Cursor, etc.)
+    - Production-ready deployment with SQLite-vec and ChromaDB backends
+    - Model Context Protocol (MCP) server implementation for AI assistants
+    
+    The service enables persistent memory and intelligent search capabilities
+    for AI applications and ML development environments, making it a valuable
+    addition to the Python machine learning ecosystem.
+
+[33mcommit 769293b39eb2ce9114b36bbb1c886b461a158578[m
+Author: sparow-svg <jesspinarde@gmail.com>
+Date:   Thu Aug 14 18:03:03 2025 +0200
+
+    Update README.md
+
+[33mcommit a475cf50a7b7f845d484df9e01e1963a86937a3b[m
+Merge: ebe5744 7102e85
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Wed Aug 13 14:34:54 2025 -0400
+
+    Merge pull request #1060 from dhgefergfefruiwefhjhcduc/master
+    
+    Add mlforgex - general-purpose ML package
+
+[33mcommit ebe574416dba84e3a1238259c860b8bffdcc9da1[m
+Merge: c7e17ab ffabcd7
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Wed Aug 13 14:34:42 2025 -0400
+
+    Merge pull request #1059 from philipithomas/patch-1
+    
+    Update Chroma description
+
+[33mcommit c7e17ab6a9a7749e6766eba8effcc9991ed3dcb4[m
+Merge: 1fec8e9 3e80e29
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Wed Aug 13 14:33:32 2025 -0400
+
+    Merge pull request #1055 from makozi/master
+    
+    Updated README.md
+
+[33mcommit 1fec8e9d71f132231a29e142448e3fe68136487e[m
+Merge: a709e27 6ad7414
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Wed Aug 13 14:33:19 2025 -0400
+
+    Merge pull request #1054 from ahoynodnarb/minidiff
+    
+    Add minidiff to README.md
+
+[33mcommit 7102e85befa9aa9b9f0df690f98185d95ec08551[m
+Author: Priyanshu Mathur <148108181+dhgefergfefruiwefhjhcduc@users.noreply.github.com>
+Date:   Thu Aug 7 14:11:50 2025 +0530
+
+    Update README.md
+
+[33mcommit ffabcd7df51592cf90ebbd98a3cf5ead00957bd2[m
+Author: Philip I. Thomas <mail@philipithomas.com>
+Date:   Tue Aug 5 18:24:02 2025 -0700
+
+    Update Chroma description
+
+[33mcommit 3e80e2946f1a1cdc4bd5f0c8bca664f30fd8a874[m
+Merge: a709e27 dab035a
+Author: MARIZU-IBEWIRO MAKOZI <marizumakozi97@gmail.com>
+Date:   Sat Jul 12 23:46:39 2025 +0100
+
+    Merge pull request #1 from makozi/ml-dev
+    
+    Updated README.md
+
+[33mcommit dab035a3b33f082285e7554d54b59ea4e863d541[m
+Author: MARIZU-IBEWIRO MAKOZI <marizumakozi97@gmail.com>
+Date:   Sat Jul 12 23:46:05 2025 +0100
+
+    Updated README.md
+
+[33mcommit 6ad741451721311056def2619603580f5abcf26d[m
+Author: Brandon Yao <ahoynodnarb@gmail.com>
+Date:   Thu Jul 3 14:20:41 2025 -0700
+
+    Add minidiff to README.md
+
+[33mcommit a709e278ecbb64c49d2a1a1223dd98380140ad65[m
+Merge: ba0cbde e759e5c
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Wed Jun 25 10:00:11 2025 -0400
+
+    Merge pull request #1051 from Morgan-Sell/master
+    
+    Add "Python Feature Engineering Cookbook" to the ML section on books.md
+
+[33mcommit ba0cbdefb90496abbfd610ea630e75d72ec57254[m
+Merge: 55fb737 12a5cef
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Wed Jun 25 09:59:58 2025 -0400
+
+    Merge pull request #1050 from JoaquinAmatRodrigo/master
+    
+    add Feature-engine into General-Purpose Machine Learning
+
+[33mcommit 55fb737db7e036adca4965a19c1129a5a6420189[m
+Merge: 080172b b142377
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Wed Jun 25 09:59:41 2025 -0400
+
+    Merge pull request #1049 from solegalli/patch-1
+    
+    add podcast and blog to blogs.md
+
+[33mcommit 080172b7e654805ab102ffb66edda7ac7fa0f4d8[m
+Merge: 68533d7 478a818
+Author: Joseph Misiti <josephmisiti@users.noreply.github.com>
+Date:   Wed Jun 25 09:59:27 2025 -0
